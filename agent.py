@@ -54,7 +54,7 @@ try:
 except ImportError:
     psutil = None
 
-BASE_URL = "https://iss-sentinel.onrender.com"
+BASE_URL = "https://iss-antivirus.onrender.com"
 CONFIG_FILE = "config.json"
 QUARANTINE_DIR = "quarantine"
 TEST_DIR = "iss_test"
